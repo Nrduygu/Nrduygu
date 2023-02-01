@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nrduygu
 - 👀 I’m interested in Econometrics and statistical methods
-- 🌱 I’m currently learning Pyhton
 - 📫 How to reach me duyguketen26@gmail.com
 
 <!---
